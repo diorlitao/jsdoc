@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc ./src/index.js -c ./jsdoc.config.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docdash": "^2.0.1",
+    "minami": "^1.2.3",
+    "taffydb": "^2.7.3"
+  }
+}
